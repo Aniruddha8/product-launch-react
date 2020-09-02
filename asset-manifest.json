@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/product-launch-react/static/css/main.c98f8d08.chunk.css",
+    "main.js": "/product-launch-react/static/js/main.022e71c7.chunk.js",
+    "main.js.map": "/product-launch-react/static/js/main.022e71c7.chunk.js.map",
+    "runtime-main.js": "/product-launch-react/static/js/runtime-main.d3826ac4.js",
+    "runtime-main.js.map": "/product-launch-react/static/js/runtime-main.d3826ac4.js.map",
+    "static/js/2.89ec196d.chunk.js": "/product-launch-react/static/js/2.89ec196d.chunk.js",
+    "static/js/2.89ec196d.chunk.js.map": "/product-launch-react/static/js/2.89ec196d.chunk.js.map",
+    "index.html": "/product-launch-react/index.html",
+    "precache-manifest.5566e3b08b097162795066c5db597049.js": "/product-launch-react/precache-manifest.5566e3b08b097162795066c5db597049.js",
+    "service-worker.js": "/product-launch-react/service-worker.js",
+    "static/css/main.c98f8d08.chunk.css.map": "/product-launch-react/static/css/main.c98f8d08.chunk.css.map",
+    "static/js/2.89ec196d.chunk.js.LICENSE.txt": "/product-launch-react/static/js/2.89ec196d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3826ac4.js",
+    "static/js/2.89ec196d.chunk.js",
+    "static/css/main.c98f8d08.chunk.css",
+    "static/js/main.022e71c7.chunk.js"
+  ]
+}
